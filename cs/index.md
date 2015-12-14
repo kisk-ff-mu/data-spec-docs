@@ -38,3 +38,85 @@
 - [VIKBA11](https://is.muni.cz/predmet/phil/VIKBA11) **Selekční jazyky** (Josef Schwarz)
 - [VIKBA25](https://is.muni.cz/predmet/phil/VIKBA25) **Digitální knihovny** (Miroslav Bartošek)
 - ? **Kurz práce s SQL** (Jan Pospíšil)
+
+# Pokrytí procesu analýzy dat
+
+*(Předběžné vyhodnocení.)*
+
+(O = primárně, o = sekundárně)
+
+<table>
+	<tr>
+		<th>Předmět</th>
+		<th>Modelování</th>
+		<th>Sbírání</th>
+		<th>Čištění</th>
+		<th>Analýza</th>
+		<th>Interpretace</th>
+		<th>Prezentace</th>
+	</tr>
+	<tr>
+		<th>[Nástroje a metody datové analytiky](https://is.muni.cz/predmet/phil/VIKMB42)</th>
+		<td>O</td>
+		<td>O</td>
+		<td>O</td>
+		<td>O</td>
+		<td>O</td>
+		<td>O</td>
+	</tr>
+	<tr>
+		<th>[Teoretické základy projektování informačních systémů](https://is.muni.cz/predmet/phil/VIKMB46)</th>
+		<td>o</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<th>[Základy jazyka SQL](https://is.muni.cz/predmet/phil/VIKMB44)</th>
+		<td>o</td>
+		<td></td>
+		<td>o</td>
+		<td>O</td>
+		<td>O</td>
+		<td>o</td>
+	</tr>
+	<tr>
+		<th>[Webová analytika](https://is.muni.cz/predmet/phil/VIKMB20)</th>
+		<td></td>
+		<td>o</td>
+		<td>o</td>
+		<td>O</td>
+		<td>O</td>
+		<td></td>
+	</tr>
+	<tr>
+		<th>[Vizualizace dat](https://is.muni.cz/predmet/phil/VIKMB37)</th>
+		<td>o</td>
+		<td>o</td>
+		<td>o</td>
+		<td>o</td>
+		<td>O</td>
+		<td>O</td>
+	</tr>
+	<tr>
+		<th>[Základy algoritmického myšlení](https://is.muni.cz/predmet/phil/VIKMB47)</th>
+		<td></td>
+		<td></td>
+		<td>o</td>
+		<td>o</td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<th>Datové modelování</th>
+		<td>O</td>
+		<td></td>
+		<td></td>
+		<td>o</td>
+		<td>o</td>
+		<td>O</td>
+	</tr>
+</table>
+
