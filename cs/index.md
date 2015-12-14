@@ -56,7 +56,7 @@
 		<th>Prezentace</th>
 	</tr>
 	<tr>
-		<th>[Nástroje a metody datové analytiky](https://is.muni.cz/predmet/phil/VIKMB42)</th>
+		<th>Nástroje a metody datové analytiky</th>
 		<td>O</td>
 		<td>O</td>
 		<td>O</td>
@@ -65,7 +65,7 @@
 		<td>O</td>
 	</tr>
 	<tr>
-		<th>[Teoretické základy projektování informačních systémů](https://is.muni.cz/predmet/phil/VIKMB46)</th>
+		<th>Teoretické základy projektování informačních systémů</th>
 		<td>o</td>
 		<td></td>
 		<td></td>
@@ -74,7 +74,7 @@
 		<td></td>
 	</tr>
 	<tr>
-		<th>[Základy jazyka SQL](https://is.muni.cz/predmet/phil/VIKMB44)</th>
+		<th>Základy jazyka SQL</th>
 		<td>o</td>
 		<td></td>
 		<td>o</td>
@@ -83,7 +83,7 @@
 		<td>o</td>
 	</tr>
 	<tr>
-		<th>[Webová analytika](https://is.muni.cz/predmet/phil/VIKMB20)</th>
+		<th>Webová analytika</th>
 		<td></td>
 		<td>o</td>
 		<td>o</td>
@@ -92,7 +92,7 @@
 		<td></td>
 	</tr>
 	<tr>
-		<th>[Vizualizace dat](https://is.muni.cz/predmet/phil/VIKMB37)</th>
+		<th>Vizualizace dat</th>
 		<td>o</td>
 		<td>o</td>
 		<td>o</td>
@@ -101,7 +101,7 @@
 		<td>O</td>
 	</tr>
 	<tr>
-		<th>[Základy algoritmického myšlení](https://is.muni.cz/predmet/phil/VIKMB47)</th>
+		<th>Základy algoritmického myšlení</th>
 		<td></td>
 		<td></td>
 		<td>o</td>
