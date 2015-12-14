@@ -19,7 +19,7 @@
 
 ## Blízké kurzy
 
-- [VIKBB27](https://is.muni.cz/predmet/phil/VIKBB27), [VIKMB16](https://is.muni.cz/predmet/phil/VIKMB16) **Bloku expertů** Přednášející může navrhnout kdokoli z KISKu, příležitost k otevírání témat, lákání na kurzy, navazování kontaktů apod. Počítá se s tím, že profilace mají vliv na složení přednášek.
+- [VIKBB27](https://is.muni.cz/predmet/phil/VIKBB27), [VIKMB16](https://is.muni.cz/predmet/phil/VIKMB16) **Blok expertů** (Pavlína Mazáčová, Pavla Minaříková) Přednášející může navrhnout kdokoli z KISKu, příležitost k otevírání témat, lákání na kurzy, navazování kontaktů apod. Počítá se s tím, že profilace mají vliv na složení přednášek.
 
 ### Na magisterském stupni
 
