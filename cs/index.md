@@ -9,13 +9,13 @@
 ## Volitelné kurzy
 
 - [VIKMB44](https://is.muni.cz/predmet/phil/VIKMB44) **Základy jazyka SQL** (podzim; Jan Pospíšil)
+- [VIKMB55](https://is.muni.cz/predmet/phil/VIKMB55) **SQL pro pokročilé a datové modelování** (podzim; Jan Pospíšil)
 - [VIKMB20](https://is.muni.cz/predmet/phil/VIKMB20) **Webová analytika** (jaro; Petr Havlík)
 - [VIKMB43](https://is.muni.cz/predmet/phil/VIKMB43) **Informační audit** (podzim; Michaela Dombrovská & Petr Očko)
 - [VIKMB37](https://is.muni.cz/predmet/phil/VIKMB37) **Vizualizace dat** (podzim; Jan Boček, Jan Pospíšil, Tomáš Marek & Matěj Málek)
 - [VIKMB48](https://is.muni.cz/predmet/phil/VIKMB48) **Bezpečnostní informatika** (jaro; Pavla Kovářová)
 - [VIKMB47](https://is.muni.cz/predmet/phil/VIKMB47) **Základy algoritmického myšlení** (jaro; Ondřej Veselý)
-- ? **Datové modelování** (jaro; Jan Pospíšil)
-- ? **Digital Humanities Reader** (jaro; Jan Martinek & Michal Lorenz)
+- [VIKMB56](https://is.muni.cz/predmet/phil/VIKMB56) **Digital Humanities: nová řešení starých problémů** (jaro; Jan Martinek & Michal Lorenz)
 
 ## Blízké kurzy
 
@@ -37,7 +37,7 @@
 - [VIKBA18](https://is.muni.cz/predmet/phil/VIKBA18) **Informační systémy** (Jan Matula)
 - [VIKBA11](https://is.muni.cz/predmet/phil/VIKBA11) **Selekční jazyky** (Josef Schwarz)
 - [VIKBA25](https://is.muni.cz/predmet/phil/VIKBA25) **Digitální knihovny** (Miroslav Bartošek)
-- ? **Kurz práce s SQL** (Jan Pospíšil)
+- [VIKBB68](https://is.muni.cz/predmet/phil/VIKBA68) **Základy SQL** (Jan Pospíšil)
 
 # Pokrytí procesu analýzy dat
 
