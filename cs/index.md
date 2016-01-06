@@ -37,7 +37,7 @@
 - [VIKBA18](https://is.muni.cz/predmet/phil/VIKBA18) **Informační systémy** (Jan Matula)
 - [VIKBA11](https://is.muni.cz/predmet/phil/VIKBA11) **Selekční jazyky** (Josef Schwarz)
 - [VIKBA25](https://is.muni.cz/predmet/phil/VIKBA25) **Digitální knihovny** (Miroslav Bartošek)
-- [VIKBB68](https://is.muni.cz/predmet/phil/VIKBA68) **Základy SQL** (Jan Pospíšil)
+- [VIKBB68](https://is.muni.cz/predmet/phil/VIKBB68) **Základy SQL** (Jan Pospíšil)
 
 # Pokrytí procesu analýzy dat
 
